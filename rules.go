@@ -80,8 +80,7 @@ var (
 				{"Fletcher-32", -1, "", false},
 				{"Joaat", -1, "", false},
 				{"ELF-32", -1, "", false},
-				{"XOR-32", -1, "", false},
-     {"Murmur-32", -1, "", false},
+				{"XOR-32", -1, "", false}, {"Murmur-32", -1, "", false},
 			},
 		},
 		{
